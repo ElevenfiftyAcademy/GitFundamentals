@@ -23,6 +23,9 @@ git push -u origin main
 After this command is used, you can just use `git push` and it will function the same way.
 
 ## Resources
+
 - [Git Push Documentation](https://git-scm.com/docs/git-push)
+
 ---
+
 [Back to home](../README.md)
